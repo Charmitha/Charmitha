@@ -1,6 +1,6 @@
 
 
-![Header](./banner (1).gif)
+![Header](./github banner.gif)
 
 
 - 🔭 I’m currently working on ...
