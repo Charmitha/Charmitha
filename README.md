@@ -1,6 +1,6 @@
 
 
-![Header](./result.gif)
+![Header](./banner.png)
 
 
 - 🔭 I’m currently working on ...
