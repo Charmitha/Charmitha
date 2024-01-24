@@ -4,7 +4,7 @@
 
 <p align="center">
  
- <a href="" target="blank">
+ <a href="https://charmitha.github.io/Portfolio/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
  <a href="https://www.linkedin.com/in/charmitha-garugu-7a441a215/" target="_blank">
